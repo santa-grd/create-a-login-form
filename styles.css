@@ -1,0 +1,68 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #4CAF50;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    margin: 0;
+    font-size: 24px;
+}
+
+p {
+    margin: 10px 0 ;
+    font-size: 16px;
+}
+
+main {
+    padding: 20px;
+}
+
+.tutorial h2 {
+    margin-top: 0;
+}
+
+
+.code-container {
+    background-color: #272822;
+    border-radius: 5px;
+    padding: 15px;
+    margin: 20px 0;
+    overflow-x: auto;
+}
+
+pre {
+    margin: 0;
+    color: #f8f8f2;
+    font-family: "Courier New", Courier, monospace;
+    font-size: 12px;
+    line-height: 1.6;
+}
+.strong {
+	margin-top:50px;
+}
+code {
+    display: block;
+    white-space: pre;
+}
+
+
+footer {
+    text-align: center;
+    padding: 10px;
+    padding-bottom:15px;
+    background-color: #333;
+    color: white;
+    position: flex;
+    margin-bottom: 0;
+    width: 100%;
+}
